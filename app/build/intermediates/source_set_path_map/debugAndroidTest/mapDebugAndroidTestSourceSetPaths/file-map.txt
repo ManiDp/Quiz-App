@@ -1,0 +1,5 @@
+com.example.myquizapp.test.app-core-1.6.1-0 C:\Users\25022049\.gradle\caches\transforms-4\23483477b90bfb357791933371e6b232\transformed\core-1.6.1\res
+com.example.myquizapp.test.app-androidTest-1 D:\CID_Applications\QuizApp\app\build\generated\res\resValues\androidTest\debug
+com.example.myquizapp.test.app-mergeDebugAndroidTestResources-2 D:\CID_Applications\QuizApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myquizapp.test.app-mergeDebugAndroidTestResources-3 D:\CID_Applications\QuizApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myquizapp.test.app-debugAndroidTest-4 D:\CID_Applications\QuizApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

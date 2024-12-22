@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Start">Start</string>
+    <string name="app_name">MyQuizApp</string>
+    <string name="entry_Name">Please enter your name</string>
+    <string name="option1">option1</string>
+    <string name="option2">option2</string>
+    <string name="option3">option3</string>
+    <string name="option4">option4</string>
+    <string name="placeHolder_Name">e.g. Mani</string>
+    <string name="submit">SUBMIT</string>
+    <string name="welcome">Welcome</string>
+    <style name="Base.Theme.MyQuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.MyQuizApp" parent="Base.Theme.MyQuizApp"/>
+</resources>

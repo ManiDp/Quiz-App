@@ -1,0 +1,3 @@
+com.example.myquizapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
